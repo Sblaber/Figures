@@ -11,7 +11,7 @@ import scipy as sp
 from scipy import integrate
 
 # Parameters
-m = 0.1  # mass
+m = 1  # mass
 gamma = 1  # damping coefficient
 k_B = 1.0  # Boltzmann constant
 T = 1.0  # temperature
